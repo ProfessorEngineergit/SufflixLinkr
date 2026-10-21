@@ -1,6 +1,6 @@
 # SufflixLinkr
 
-A native macOS app for managing **default "Open with" associations** — which application
+A native macOS app for managing **default "Open with" associations** - which application
 opens which file type. Instead of digging through Finder's *Get Info → Open with → Change All*
 one extension at a time, SufflixLinkr gives you a single, searchable overview of every file
 type on your Mac and lets you reassign handlers in bulk.
@@ -9,14 +9,14 @@ type on your Mac and lets you reassign handlers in bulk.
 
 ## Features
 
-- **File Types view** — browse ~250 known file types grouped into categories (Programming,
+- **File Types view** - browse ~250 known file types grouped into categories (Programming,
   Data / DevOps, Office & Docs, Images, Media, Archives, 3D / CAD, System, Other). Search by
   extension, UTI, or handler name. See and change the default app per type.
-- **Applications view** — pick an app and toggle, in bulk, every file type it should own.
+- **Applications view** - pick an app and toggle, in bulk, every file type it should own.
   Toggling a type off hands it to the next available handler.
-- **New-app detection** — when you install a new app, SufflixLinkr notices the file types it
+- **New-app detection** - when you install a new app, SufflixLinkr notices the file types it
   can handle and offers to make it the default in one click.
-- **Import / Export `.slinkr`** — save your handler setup to a portable `.slinkr` file and
+- **Import / Export `.slinkr`** - save your handler setup to a portable `.slinkr` file and
   re-apply it later or on another Mac (double-click a `.slinkr` in Finder to import).
 
 ## Download & install
@@ -74,6 +74,6 @@ handler for that UTI. Rows whose app isn't installed are reported as skipped.
 
 [MIT](LICENSE) © 2026 Bahrian Novotny
 
-## Development and AI assistance
+## AI assistance
 
-The default-branch history includes contributions explicitly attributed to Claude ([example](https://github.com/ProfessorEngineergit/SufflixLinkr/commit/8dec0f711745deac2f8ecf2bc31c3a04dffda1d5)). This documents AI involvement in those contributions; it does not establish the origin of every line or independent validation. Existing author, co-author and session records are retained.
+Some code contributions are explicitly attributed to AI tools: [generated with Claude Code](https://github.com/ProfessorEngineergit/SufflixLinkr/commit/8dec0f711745deac2f8ecf2bc31c3a04dffda1d5). This applies to those contributions, not every file.
