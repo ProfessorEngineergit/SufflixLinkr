@@ -73,3 +73,7 @@ handler for that UTI. Rows whose app isn't installed are reported as skipped.
 ## License
 
 [MIT](LICENSE) © 2026 Bahrian Novotny
+
+## Development and AI assistance
+
+The default-branch history includes contributions explicitly attributed to Claude ([example](https://github.com/ProfessorEngineergit/SufflixLinkr/commit/8dec0f711745deac2f8ecf2bc31c3a04dffda1d5)). This documents AI involvement in those contributions; it does not establish the origin of every line or independent validation. Existing author, co-author and session records are retained.
